@@ -1,0 +1,16 @@
+# --- PlatformIO (ESP32) ---
+.pio/
+.clang_complete
+.gcc-flags.json
+.todo
+
+# --- ROS 2 (Raspberry Pi) ---
+ros2_ws/build/
+ros2_ws/install/
+ros2_ws/log/
+
+# --- Python i Środowisko ---
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
